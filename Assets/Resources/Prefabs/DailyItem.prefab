@@ -690,17 +690,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fa9cb089a981a49129d0a07352e7b919, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_uiBoxbtn: {fileID: 4440765182586359964}
-  m_uiFreeObj: {fileID: 1436077564578475366}
-  m_uiBg: {fileID: 3828365737082639145}
-  m_uiNoemalObj: {fileID: 6882775547070576723}
-  m_uiNeedCoinNumText: {fileID: 7146080572634836975}
-  m_uiNeedCoinNumSpr: {fileID: 3599901929267508202}
-  m_uiSubImg: {fileID: 1741882507058171012}
-  m_uiMoneyImg: {fileID: 8183956724522824549}
-  m_uiLockObj: {fileID: 4269757359909338020}
-  m_uiUnLockObj: {fileID: 8891850644556536030}
-  m_uiIsPurchased: {fileID: 7933354370099178529}
+  mUIBoxbtn: {fileID: 4440765182586359964}
+  mUIFreeObj: {fileID: 1436077564578475366}
+  mUIBg: {fileID: 3828365737082639145}
+  mUINoemalObj: {fileID: 6882775547070576723}
+  mUINeedCoinNumText: {fileID: 7146080572634836975}
+  mUISubImg: {fileID: 1741882507058171012}
+  mUIMoneyImg: {fileID: 8183956724522824549}
+  mUILockObj: {fileID: 4269757359909338020}
+  mUIUnLockObj: {fileID: 8891850644556536030}
+  mUIIsPurchased: {fileID: 7933354370099178529}
 --- !u!1 &4440765183386392997
 GameObject:
   m_ObjectHideFlags: 0
